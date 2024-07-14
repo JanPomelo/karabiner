@@ -529,10 +529,10 @@
               {
                 "to": [
                   {
-                    "shell_command": "open -a 'Obsidian.app'"
+                    "shell_command": "open -a 'Notes.app'"
                   }
                 ],
-                "description": "Open -a 'Obsidian.app'",
+                "description": "Open -a 'Notes.app'",
                 "type": "basic",
                 "from": {
                   "key_code": "n",

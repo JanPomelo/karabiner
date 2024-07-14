@@ -76,9 +76,12 @@ const rules: KarabinerRules[] = [
       s: app("Slack"),
       t: app("TablePlus"),
       b: app("Bear"),
+      n: app("Obsidian"),
       f: app("Finder"),
       p: app("Postman"),
       m: app("Spotify"),
+      v: app("Preview"),
+      d: app("Figma"),
     },
 
     // w = "Window" via rectangle.app
